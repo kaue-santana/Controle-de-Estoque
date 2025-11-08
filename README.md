@@ -8,7 +8,7 @@ Este projeto foi desenvolvido no NetBeans e foi chamado "ControleEstoqueWeb".
 Uma empresa de logística precisa de uma página web para controlar o seu estoque de produtos, e separá-los em categorias. 
 
 # Interface gráfica WEB
-As interfaces devem fazer uso do arquivo "estilo.css" para formatar e melhorar o visual das páginas.
+As interfaces fazem uso do arquivo "estilo.css" para formatar e melhorar o visual das páginas.
 
 Seguem as 4 páginas do sistema:
 
