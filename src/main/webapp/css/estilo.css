@@ -1,0 +1,128 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background: #a0afd2;
+    color: #60624d;
+    padding: 24px 0;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 32px;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    background: #dfe1e7;
+    color: #60624d;
+    line-height: 1.6;
+    padding: 32px;
+    text-align: center;
+    margin: 5px;
+
+}
+
+body>form>h2 {
+    font-weight: bolder;
+}
+
+
+body>h3 {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+form {
+   background: #a0afd2;
+    padding: 24px 0;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 32px;
+}
+
+form>label {
+    font-weight: bold;
+}
+
+form>input {
+    padding: 5px;
+    margin: 2px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+}
+
+form>h2 {
+    background: #a0afd2;
+    padding: 24px 0;
+    text-align: center;
+    border-radius: 8px;
+    font-weight: normal;
+    
+}
+
+a {
+    color: #60624d;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+a:hover {
+    color: #c4d6ff;
+    text-decoration: underline;
+}
+
+
+button, .btn {
+    background: #4f8cff;
+    color: #fff;
+    border: none;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border-bottom: 6px;
+    border-top: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background 0.2s;
+}
+button:hover, .btn:hover {
+    background: #2563eb;
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 32px;
+    border-radius: 10px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
+
+
+h1, h2, h3 {
+    margin-bottom: 16px;
+    font-weight: 600;
+}
+
+p {
+    margin-bottom: 16px;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    text-align: center;
+}
+footer {
+    color: #302d2d;
+    font-size: 8px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

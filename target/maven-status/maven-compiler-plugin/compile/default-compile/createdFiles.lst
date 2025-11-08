@@ -1,0 +1,6 @@
+com\mycompany\controleestoqueweb\JakartaRestConfiguration.class
+model\Movimentacao.class
+com\mycompany\controleestoqueweb\resources\JakartaEE11Resource.class
+dao\MovimentacaoDAO.class
+servlet\CategoriaServlet.class
+servlet\MovimentacaoServlet.class
